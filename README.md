@@ -1,4 +1,4 @@
-![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=mychan0926&fontSize=70&&fontColor=ffffff) 
+![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=정명찬&fontSize=70&&fontColor=ffffff) 
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mychan0926)](https://solved.ac/mychan0926) <img src="http://mazandi.herokuapp.com/api?handle=mychan0926&theme=cold"/>

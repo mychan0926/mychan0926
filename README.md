@@ -25,10 +25,10 @@
 
 ## 수상
 * **(2022) 서울 ICT 창의성 경진대회 C언어 알고리즘 마스터 부문 (금상)**
-
-## 토이 프로젝트
-
-
+* **(2023) 제 5회 한국외대 CODE FESTIVAL (공과대학상)**
+## 현재 진행중인 프로젝트 (공부)
+~ RBtree, AVLtree
+~ sfml을 이용한 게임 개발 프로젝트 과제
 ## Contact me
 
 email : <mychan0926@naver.com> <mychan0926@gmail.com>   

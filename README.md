@@ -6,7 +6,7 @@
 ![(본인아이디)'s profile](https://github-profile-trophy.vercel.app/?username=mychan0926&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
 ## 교육
 * **(2023.03 ~ 2027.06) 한국외국어대학교 컴퓨터공학부**
-  - **1학년 2학기 재학중**
+  - **휴학 (군대)**
     + 2027년 졸업예정
 ## 동아리 활동
 * **(2023 ~ ) 한국외국어대학교 컴퓨터공학부 학회 NC 1기**
@@ -26,9 +26,9 @@
 ## 수상
 * **(2022) 서울 ICT 창의성 경진대회 C언어 알고리즘 마스터 부문 (금상)**
 * **(2023) 제 5회 한국외대 CODE FESTIVAL (공과대학상)**
+* 
 ## 현재 진행중인 프로젝트 (공부)
-~ RBtree, AVLtree
-~ sfml을 이용한 게임 개발 프로젝트 과제
+
 ## Contact me
 
 email : <mychan0926@naver.com> <mychan0926@gmail.com>   

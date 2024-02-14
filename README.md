@@ -4,13 +4,17 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mychan0926)](https://solved.ac/profile/mychan0926) <img src="http://mazandi.herokuapp.com/api?handle=mychan0926&theme=cold"/>
 ![(본인아이디)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=mychan0926&show_icons=true&theme=tokyonight)
 ![(본인아이디)'s profile](https://github-profile-trophy.vercel.app/?username=mychan0926&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
+
 ## 교육
 * **(2023.03 ~ 2027.06) 한국외국어대학교 컴퓨터공학부**
   - **휴학 (군대)**
     + 2027년 졸업예정
-## 동아리 활동
+## 활동
 * **(2023 ~ ) 한국외국어대학교 컴퓨터공학부 학회 NC 1기**
   - **학회원**
+
+* **(2024 ~ ) 멘사 코리아 (Mensa Korea)**
+  - **정회원**
 ## 대외활동
 * **(2023) 플리더스 대학생 서포터즈 1기** 
 * **(2023) 엑소게임즈 베타테스터** 

@@ -3,18 +3,22 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mychan0926)](https://solved.ac/profile/mychan0926) <img src="http://mazandi.herokuapp.com/api?handle=mychan0926&theme=cold"/>
 ![(본인아이디)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=mychan0926&show_icons=true&theme=tokyonight)
-![(본인아이디)'s profile](https://github-profile-trophy.vercel.app/?username=mychan0926&margin-h=50&margin-w=10&row=1&column=8&no-frame=false&theme=algolia)  
 
 ## 교육
-* **(2023.03 ~ 2027.06) 한국외국어대학교 컴퓨터공학부**
+* **(2023.03 ~ 2029.06) 한국외국어대학교 컴퓨터공학부**
   - **휴학 (군대)**
     + 2029년 졸업예정
+  
 ## 활동
-* **(2023 ~ ) 한국외국어대학교 컴퓨터공학부 학회 NC 1기**
+* **(2023 ~ 2023) 한국외국어대학교 컴퓨터공학부 학회 NC 1기**
   - **학회원**
-
-* **(2024 ~ ) 멘사 코리아 (Mensa Korea)**
+    
+* **(2024 ~ 2025) 멘사 코리아 (Mensa Korea)**
   - **정회원**
+ 
+* **(2025 ~ ) GDG on Campus HUFS**
+  - **Member**
+ 
 ## 대외활동
 * **(2023) 플리더스 대학생 서포터즈 1기** 
 * **(2023) 엑소게임즈 베타테스터** 
@@ -30,7 +34,7 @@
 ## 수상
 * **(2022) 서울 ICT 창의성 경진대회 C언어 알고리즘 마스터 부문 (금상)**
 * **(2023) 제 5회 한국외대 CODE FESTIVAL (공과대학상)**
-* 
+  
 ## 현재 진행중인 프로젝트 (공부)
 
 ## Contact me

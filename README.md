@@ -2,7 +2,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mychan0926)](https://solved.ac/profile/mychan0926) <img src="http://mazandi.herokuapp.com/api?handle=mychan0926&theme=cold"/>
-![(본인아이디)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=mychan0926&show_icons=true&theme=tokyonight)
+
 
 ## 교육
 * **(2023.03 ~ 2029.06) 한국외국어대학교 컴퓨터공학부**

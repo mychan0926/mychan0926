@@ -42,11 +42,10 @@
 ## 기타
 
   
-## 현재 진행중인 프로젝트 (공부)
-* Unity Engine 을 사용한 게임제작
+## 현재 진행중인 프로젝트
+* **(2025.12.17) Unity Engine 을 사용한 게임제작 **
 ## Contact me
 
 email : <mychan0926@naver.com> <mychan0926@gmail.com>   
 
 
-</div>

@@ -1,5 +1,4 @@
 ![Solved.ac Profile](https://capsule-render.vercel.app/api?type=Waving&color=638fda&height=200&section=header&text=정명찬&fontSize=70&&fontColor=ffffff) 
-
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mychan0926)](https://solved.ac/profile/mychan0926) <img src="http://mazandi.herokuapp.com/api?handle=mychan0926&theme=cold"/>
 
@@ -43,7 +42,8 @@
 
   
 ## 현재 진행중인 프로젝트
-* **(2025.12.17) Unity Engine 을 사용한 게임제작 **
+* **(2025.12.17) Unity Engine 을 사용한 뱀파이어 서바이벌 & 로그라이크 개인 프로젝트**
+* **(2026.01.25) Unity Engine 을 사용한 팀 게임제작 프로젝트**
 ## Contact me
 
 email : <mychan0926@naver.com> <mychan0926@gmail.com>   
